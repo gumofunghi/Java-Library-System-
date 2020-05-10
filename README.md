@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="project-description">Project Description</h1>
 <ul>
