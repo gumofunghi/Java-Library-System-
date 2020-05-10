@@ -1,3 +1,7 @@
+---
+
+
+---
 
 <h1 id="project-description">Project Description</h1>
 <ul>
@@ -35,4 +39,6 @@
 <li>Search book</li>
 <li>View student list</li>
 </ol>
+<p>For more details and to see the GUI, please refer to the link below:<br>
+<a href="https://gumofunghi.wordpress.com/2020/05/10/library-system/">https://gumofunghi.wordpress.com/2020/05/10/library-system/</a></p>
 
