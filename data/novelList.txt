@@ -1,0 +1,21 @@
+﻿Alice's Adventures in Wonderland 
+111111
+Lewis Carroll
+Fiction
+Alice's Adventures in Wonderland is an 1865 novel written by English author Charles Lutwidge Dodgson under the pseudonym Lewis Carroll. It tells of a young girl named Alice falling through a rabbit hole into a fantasy world populated by peculiar, anthropomorphic creatures.
+1865
+
+AnimalFarm
+222222
+George Orwell
+Fiction
+Animal Farm is an allegorical novella by George Orwell, first published in England on 17 August 1945. According to Orwell, the fable reflects events leading up to the Russian Revolution of 1917 and then on into the Stalinist era of the Soviet Union.
+1945
+
+Harry Potter and the Philosopher's Stone
+333333
+J.K.Rowling
+Fiction
+Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling.
+1997
+
